@@ -1,4 +1,8 @@
 .features {
-    background-color: $color-grey-light-2;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     grid-column: center-start / center-end;
+    grid-gap: 6rem;
+
+    margin: 15rem 0;
 }
