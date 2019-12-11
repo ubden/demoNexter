@@ -3,7 +3,7 @@
 Nexter is a website made using CSS Grid.
 
 ## Live Demo:
-www.jazdosanjh.com/nexter
+https://ubden.github.io/demoEzaris
 
 ## Built With
 
